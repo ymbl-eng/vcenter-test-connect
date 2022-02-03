@@ -1,1 +1,1 @@
-# vcenter-test-connect
+Python pyvmomiライブラリを使用してvCenterに接続できるかどうかをテストするための簡単なスクリプト。
